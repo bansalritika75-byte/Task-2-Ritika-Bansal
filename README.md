@@ -1,7 +1,6 @@
 Student Grade Calculator
 
-Java Project 2 — DecodeLabs Industrial Training Kit | Batch 2026
-
+Java Project 2 
 
 About The Project
 A console-based Java application that takes marks of multiple subjects as input, calculates the total marks, average percentage, assigns a grade, and displays a formatted report card.
